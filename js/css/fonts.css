@@ -1,0 +1,24 @@
+/* font-family: PlayfairDisplay */
+@font-face{
+    font-family: PlayfairDisplay;
+    src: url('../fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf');
+}
+
+/* font-family: EBGaramond */
+@font-face{
+    font-family: EBGaramond;
+    src: url('../fonts/EB_Garamond/EBGaramond-VariableFont_wght.ttf');
+}
+
+/* font-family: LibreBaskerville */
+@font-face{
+    font-family: LibreBaskerville;
+    src: url('../fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf');
+}
+/* font-family: MateSC*/
+@font-face{
+    font-family: MateSC;
+    src: url('../fonts/MateSC/MateSC-Regular.ttf');
+}
+
+
